@@ -1,4 +1,4 @@
-# Children's Activity Playground
+# Storybook Education
 
 An interactive, educational, and fully responsive digital playground for kids. This application is crafted with **React, TypeScript, Tailwind CSS, and Framer Motion**, featuring delightful animations, micro-interactions, and sound synthesis designed to keep children engaged while they learn.
 
@@ -55,7 +55,7 @@ This repository is pre-configured with a modern, official **GitHub Actions** wor
 
 ## 💸 Commercialization & Selling Recommendations
 
-To turn the **Children's Activity Playground** into a profitable business or SaaS, we recommend the following professional upgrades:
+To turn **Storybook Education** into a profitable business or SaaS, we recommend the following professional upgrades:
 
 ### 1. Custom Domain
 Set up a custom domain (e.g., `wonderkidsplayground.com`) to establish credibility. You can configure this directly in your repository’s **Pages** settings under **Custom domain**.
